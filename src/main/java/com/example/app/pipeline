@@ -1,0 +1,1 @@
+echo "Trigger Jenkins build - Manisha" > trigger.txt
